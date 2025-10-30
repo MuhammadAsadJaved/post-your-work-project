@@ -36,7 +36,7 @@ def get_filters():
        if city in CITIES:
            break
 
-    # get user input for month (all, january, february, march, april, may and june)
+    # get user input for month (all, january, february, march, april, may, june)
     month = get_user_input('All right! now it\'s time to provide us a month name '\
                     'or just say \'all\' to apply no month filter. \n(e.g. all, january, february, march, april, may, june) \n> ', MONTHS)
 
