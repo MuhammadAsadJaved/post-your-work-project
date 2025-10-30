@@ -1,27 +1,22 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+>**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+# Date created
+30th November 2025 
 
 # Project Title
+version-control-project.git
 
-Describe what your project is about and what it does
+# Description
+Udacity 'Introduction to Version Control' end of course project
 
-## Information about how to use your project
+# Files used
+README.md  
+.gitignore  
+bikeshare.py  
+chicago.csv  
+new_york_city.csv  
+washington.csv
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+# Credits
+Project forked from https://github.com/udacity/pdsnd_github  
+bikeshare.py source code from https://github.com/ozlerhakan/bikeshare.git
