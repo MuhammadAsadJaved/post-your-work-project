@@ -8,6 +8,8 @@ Time:1:22
 
 version-control-project.git
 
+for my own project
+
 # Description
 
 Udacity 'Introduction to Version Control' end of course project.  
