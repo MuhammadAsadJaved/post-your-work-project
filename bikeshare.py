@@ -10,7 +10,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv',
               'florida': 'florida.csv',
               'las vegas': 'las vegas',
-              'Boston': 'boston' }
+              'Boston': 'booston' }
 
 CITIES = ['chicago', 'new york', 'washington', 'florida', 'las vegas', 'boston']
 
